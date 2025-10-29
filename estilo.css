@@ -2,7 +2,7 @@
 
 
 body{
-background-color: pink;
+background-color:#56702c;
 color: green;
   font-family: "Ole", cursive;
   font-weight: 400;
@@ -15,8 +15,8 @@ margin : 0;
 }
 
 button{
-  background-color: whitesmoke;
-  color: rebeccapurple;
+  background-color: #cfa732;
+  color: whitesmoke
   padding : 20px;
 }
 main{
