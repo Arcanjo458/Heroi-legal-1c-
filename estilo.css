@@ -5,12 +5,12 @@ body{
 background-color:#56702c;
 color: whitesmoke;
   font-family: "Ole", cursive;
-  font-weight: 600;
+  font-weight: 400;
   font-style: normal;
 display: flex;
 justify-content : center;
 align-items : center;
-height : 400x;
+height : 800px;
 margin : 0;
 }
 
